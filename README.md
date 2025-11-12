@@ -12,7 +12,7 @@ Professional Web Developer | WordPress, Shopify, Wix & MERN Expert | SEO and Goo
   <a href="https://github.com/raihanahmedfaraz?tab=followers">
     <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/raihanahmedfaraz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white"/>
   </a>
-  <a href="https://github.com/raihanahmedfaraz?tab=repositories&sort=stargazers">
+  <a href="https://github.com/anik22889219">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/raihanahmedfaraz?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
   <a href="https://www.linkedin.com/in/raihanahmedfaraz/">
