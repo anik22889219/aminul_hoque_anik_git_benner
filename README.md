@@ -1,4 +1,4 @@
-# Raihan Ahmed
+# Md. Aminul Hoque Anik
 
 **`Turning Code Into Conversions`**
 
@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-I'm Raihan Ahmed — a web developer, digital marketer, and sales-driven entrepreneur. I help businesses grow their online presence, boost sales, and build powerful digital solutions from the ground up. From websites and eCommerce platforms to SEO and strategy, I turn ideas into scalable systems that deliver real results. Every project I take on is focused on performance, branding, and impact — because that’s what drives success.
+Professional Web Developer | WordPress, Shopify, Wix & MERN Expert | SEO and Google Analytics Strategist | Specialist in product listing.
 
 <p align="left">
   <a href="https://github.com/raihanahmedfaraz?tab=followers">
