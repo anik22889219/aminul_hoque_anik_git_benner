@@ -1,7 +1,5 @@
 # Md. Aminul Hoque Anik
 
-**`Turning Code Into Conversions`**
-
 ---
 
 ## 👋 About Me
@@ -94,4 +92,4 @@ Professional Web Developer | WordPress, Shopify, Wix & MERN Expert | SEO and Goo
   </tr>
 </table>
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Follow%20Me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/raihanahmedfaraz/)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Follow%20Me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/aminulhoqueanik/)
